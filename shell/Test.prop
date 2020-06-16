@@ -1,0 +1,10 @@
+HOST_IP=127.0.1.1
+Upload_Address=/home/sensen/Desktop/firoj
+
+File_Path=/home/sensen/khan.txt
+
+Dir_Path=/sftp/firoj/workingDir
+
+
+
+
